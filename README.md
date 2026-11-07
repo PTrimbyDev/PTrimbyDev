@@ -10,7 +10,7 @@ I design, build and test software from concept to implementation, with an emphas
 
 A local-first desktop workspace for operational AI governance, risk and compliance.
 
-Praesera brings together AI systems, risks, controls, evidence, assessments and actions, supported by an activity history. It is designed to help professionals maintain traceable governance records, connect related information and manage ongoing governance and compliance work.
+Praesera brings together AI systems, risks, controls, evidence, assessments, actions and formal governance decisions in a local-first workspace. Recent development has focused on an interactive governance dashboard, clearer navigation to relevant records, and a dedicated read-only Governance History workspace. It is designed to support human-led oversight, traceable records and ongoing governance work—not to make automated compliance or approval decisions.
 
 **Technologies:** React, TypeScript, Tauri, Rust and SQLite.
 
