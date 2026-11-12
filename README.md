@@ -26,6 +26,8 @@ A desktop application for collecting, reviewing and analysing AI governance news
 
 GovernanceWatch supports relevance assessment, structured analysis and drafting, with human review built into the process before anything is published externally.
 
+Recent improvements include more reliable source-refresh reporting, topic-based navigation and clearer review workflows, supporting evidence-led analysis of AI governance developments.
+
 **Technologies:** React, TypeScript, Tauri, Rust and SQLite.
 
 ### RegulaLearn
