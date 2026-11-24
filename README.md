@@ -4,6 +4,28 @@
 
 I design, build and test software from concept to implementation, with an emphasis on practical workflows, clear interfaces, maintainable engineering and privacy-conscious design. My wider interests include audio software, data analysis and machine learning.
 
+## Development Update — November 2026
+
+Development continues across several private desktop software projects, with recent work focused on operational AI governance, application reliability, security and testing.
+
+**Praesera — AI Governance & Compliance**
+
+Continued development of the governance interface, shared navigation and record-management workflows. Recent work has included persistent test environments, validation improvements, governance documentation and verified backup procedures.
+
+**GovernanceWatch — AI Governance Intelligence**
+
+Extended structured incident-evidence handling and human verification workflows, with additional testing of source ingestion, review processes and application reliability.
+
+**RegulaLearn — Regulatory Learning**
+
+Continued development and evaluation of the regulatory learning application, with a focus on practical scenarios and privacy-conscious local storage.
+
+**Engineering & Quality Assurance**
+
+Ongoing work across application testing, software validation, controlled development environments, security boundaries and recovery procedures.
+
+All principal software products remain in private development. Source code, internal architecture and unreleased interfaces are not publicly distributed.
+
 ## Current Projects
 
 ### Praesera
